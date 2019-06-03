@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/Azure/azure-sdk-for-go/storage"
-	"github.com/pivotal-cf/azure-blobstore-resource/api"
-	"github.com/pivotal-cf/azure-blobstore-resource/azure"
+	"github.com/bottkars/azurestack-blobstore-resource/api"
+	"github.com/bottkars/azurestack-blobstore-resource/azure"
 )
 
 func main() {
