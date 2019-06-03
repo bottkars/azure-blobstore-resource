@@ -3,7 +3,7 @@ package api_test
 import (
 	"time"
 
-	. "github.com/pivotal-cf/azure-blobstore-resource/api"
+	. "github.com/bottkars/azurestack-blobstore-resource/api"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

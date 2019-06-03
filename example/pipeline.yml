@@ -8,7 +8,7 @@ resources:
   - name: azure-blobstore-resource
     type: git
     source:
-      uri: https://github.com/pivotal-cf/azure-blobstore-resource.git
+      uri: https://github.com/bottkars/azurestack-blobstore-resource.git
       branch: master
 
   - name: configuration

@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/Azure/azure-sdk-for-go/storage"
-	"github.com/pivotal-cf/azure-blobstore-resource/api"
-	"github.com/pivotal-cf/azure-blobstore-resource/fakes"
+	"github.com/bottkars/azurestack-blobstore-resource/api"
+	"github.com/bottkars/azurestack-blobstore-resource/fakes"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
